@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Code by Rence
+#Code by Dyvone 
 import random
 import socket
 import threading
